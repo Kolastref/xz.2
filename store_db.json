@@ -34,5 +34,23 @@
         "price": 132199,
         "image": "laptop4.jpg",
         "description": "Монітор — 16” WQXGA+ (3200 x 2000) OLED, 120 Гц, 500 кд/м², сенсорний Процесор — Intel Core i9-13980HX (4,00-5,60 ГГц, 36 МБ кеша) "
+    },
+    {
+        "title": "AAsus ProArt Studiobook 16 H7604JI",
+        "price": 132199,
+        "image": "laptop4.jpg",
+        "description": "Монітор — 16” WQXGA+ (3200 x 2000) OLED, 120 Гц, 500 кд/м², сенсорний Процесор — Intel Core i9-13980HX (4,00-5,60 ГГц, 36 МБ кеша) "
+    },
+    {
+        "title": "Laptop Lenovo LOQ 15IRH8 Storm Grey",
+        "price": 49999,
+        "image": "lenovo.jpg",
+        "description": "15.6”, WQHD (2560x1440), IPS, 165 Гц, з покриттям проти відблиску;"
+    },
+    {
+        "title": "Ноутбук Lenovo Yoga Pro 9 16IMH9 Luna Grey ",
+        "price": 102999,
+        "image": "lenovo2.jpg",
+        "description": "16”, 3.2K (3200x2000), Mini LED, 165 Гц, з покриттям проти відблиску;"
     }
-]
+    ]
